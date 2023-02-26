@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.titulo {
+  font-size: 24px;
+  color: #032688;
+  text-align: center;
+  margin-top: 20px;
+}
